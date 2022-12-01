@@ -1,4 +1,5 @@
 
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
 
 *{
@@ -14,7 +15,7 @@ body{
 }
 .about-left{
     background-color: #ebebeb;
-    background-image: linear-gradient(19deg, #ebebeb 0%, #d06cff 100%);
+    background-image: url(img/bg.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -23,7 +24,7 @@ body{
     color:#fff
 }
 .about-left-content > div{
-    background: #12192c;
+    background: #1e1e1e;
     padding: 4rem 4rem 2.5rem 5rem;
     text-align: center;
     
@@ -62,7 +63,7 @@ body{
     margin: 2.2rem 0 0.6rem 0;
     line-height: 1.2;
     padding-bottom: 1rem;
-    border-bottom: 2px solid #B721FF;
+    border-bottom: 2px solid #8f87ff;
 }
 .about-left-content h3{
     text-transform: uppercase;
@@ -71,7 +72,7 @@ body{
     margin-top: 1.2rem;
 }
 .icons{
-    background: #12192c;
+    background: #1e1e1e;
     display: flex;
     justify-content: center;
     padding: 0.8rem 0;
@@ -79,7 +80,7 @@ body{
 }
 .icons li{
     list-style-type: none;
-    background: #B721FF;
+    background: #8f87ff;
     color: #fff;
     width: 40px;
     height: 40px;
@@ -94,10 +95,10 @@ body{
 }
 .icons li:hover{
     background: #edffec;
-    color: #000;
+    color: #1e1e1e;
 }
 .about-right{
-    background: #12192c;
+    background: #1e1e1e;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -112,7 +113,7 @@ body{
     text-transform: uppercase;
 }
 .about-right h1 span{
-    color: #B721FF;
+    color: #8f87ff;
 }
 .about-right h2{
     font-weight: 600;
@@ -136,9 +137,9 @@ body{
     color:#fff
 }
 .btn.btn-pink{
-    background: #B721FF;
+    background: #8f87ff;
     color: #fff;
-    border-color: #B721FF;
+    border-color: #8f87ff;
     transition: all 0.5s ease-in-out;
 }
 .btn.btn-pink:hover{
@@ -150,8 +151,8 @@ body{
     transition: all 0.5s ease-in-out;
 }
 .btn.btn-white:hover{
-    background: #B721FF;
-    border-color: #B721FF;
+    background: #8f87ff;
+    border-color: #8f87ff;
     color: #fff;
 }
 .about-para p{
@@ -182,7 +183,7 @@ body{
 }
 .credit a{
     text-decoration: none;
-    color:#B721FF;
+    color:#8f87ff;
     font-weight: bold;
 } 
 a:link {
