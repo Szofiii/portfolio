@@ -17,5 +17,5 @@
 
 ## Support
 
-For support, DM **Mythology#1000** on Discord
+For support, DM **Mythology#0001** on Discord
 
